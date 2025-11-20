@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AccessFlow",
+  "description": "Multi-branch smart access-control and rental management platform integrating ZKTeco and TTLock with remote face enrollment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
